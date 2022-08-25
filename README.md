@@ -1,2 +1,1 @@
-# Class-39
-class 39
+# C37-SpeedRacer_ReferenceCode
